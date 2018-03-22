@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+<title>my first project</title>
+</head>
+<body>
+<header>
+<h1>Women in digital skills.</h1>
+</header>
+<div class = "women">
+<h1>WE are the women!</h1>
+<p>Women in digital skills training we are very few.</p>
+<br>
+<h2>WE are also teaching our daughters coding.</h2>
+<hr>
+<h3>Coding is no longer for man only.</h3>
+</div>
+</body>
+<footer>
+</footer>
+</html>
+
